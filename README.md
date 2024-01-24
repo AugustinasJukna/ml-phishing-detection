@@ -1,1 +1,1 @@
-# ml-phishing-detection
+# phishing-detection
